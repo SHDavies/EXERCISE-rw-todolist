@@ -1,4 +1,5 @@
 var React = require('react');
+var ListContainer = require('ListContainer.js');
 
 var App = React.createClass({
   render: function() {
