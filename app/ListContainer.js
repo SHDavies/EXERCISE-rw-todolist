@@ -1,6 +1,6 @@
 var React = require('react');
-var AddItem = require('AddItem.js');
-var List = require('List.js');
+var AddItem = require('./AddItem.js');
+var List = require('./List.js');
 
 var ListContainer = React.createClass({
   getInitialState: function() {
